@@ -1,9 +1,9 @@
-module hoTTT.AssemblyInfo
+module hoTTT.Web.AssemblyInfo
 open System.Reflection
 open System.Runtime.CompilerServices
 
 
-[<assembly: AssemblyTitle("hoTTT")>]
+[<assembly: AssemblyTitle("hoTTT.Web")>]
 [<assembly: AssemblyDescription("")>]
 [<assembly: AssemblyConfiguration("")>]
 [<assembly: AssemblyCompany("")>]

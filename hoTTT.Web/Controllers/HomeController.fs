@@ -1,4 +1,4 @@
-namespace hoTTT.Controllers
+namespace hoTTT.Web.Controllers
 
 open System
 open System.Collections.Generic

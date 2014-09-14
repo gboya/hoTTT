@@ -1,4 +1,4 @@
-namespace hoTTT
+namespace hoTTT.Web
 
 open System
 open System.Net.Http
