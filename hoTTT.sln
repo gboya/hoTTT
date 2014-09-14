@@ -10,6 +10,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{FA0946
 		.nuget\packages.config = .nuget\packages.config
 	EndProjectSection
 EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "hoTTT.Game", "hoTTT.Game\hoTTT.Game.fsproj", "{B78A4D80-3B07-40CC-AF5E-460B0AC01F26}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -20,6 +22,10 @@ Global
 		{B923A0C6-C95E-464B-8381-FD4A42785515}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B923A0C6-C95E-464B-8381-FD4A42785515}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B923A0C6-C95E-464B-8381-FD4A42785515}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B78A4D80-3B07-40CC-AF5E-460B0AC01F26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B78A4D80-3B07-40CC-AF5E-460B0AC01F26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B78A4D80-3B07-40CC-AF5E-460B0AC01F26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B78A4D80-3B07-40CC-AF5E-460B0AC01F26}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
